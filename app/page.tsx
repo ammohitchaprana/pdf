@@ -184,7 +184,7 @@ export default function LandingPage() {
               </h2>
               <p className="text-lg text-slate-600 mb-8 leading-relaxed">
                 Most PDF editors upload your files to their servers. We
-                don&apos;t All processing happens locally in your web browser.
+                don&apos;t. All processing happens locally in your web browser.
               </p>
               <ul className="space-y-4">
                 {[
