@@ -1,4 +1,4 @@
-# PDF0
+# PDF0 - https://pdf.xhost.live
 
 A fast, privacy-focused PDF toolkit that runs entirely in your browser. No file uploads, no servers — your documents never leave your device.
 
@@ -34,30 +34,9 @@ A fast, privacy-focused PDF toolkit that runs entirely in your browser. No file 
 - Node.js 18+
 - npm, yarn, pnpm, or bun
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/kanavtwt/pdf0.git
-cd pdf0
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open https://pdf.xhost.live in your browser.
 
 ### Build for Production
-
-```bash
-# Build static export
-npm run build
-
-# The output will be in the 'out' folder
-```
 
 ## 🏗️ Tech Stack
 
@@ -96,15 +75,10 @@ pdf0/
 
 PDF0 is configured for static export and works great on:
 
-- [Cloudflare Pages](https://pages.cloudflare.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://netlify.com/)
-- Any static hosting
+- Hosted on xHost.Live
+
+https://pdf.xhost.live
 
 ## 📄 License
 
 MIT License — feel free to use this project for personal or commercial purposes.
-
-## ☕ Support
-
-If you find this project useful, consider [buying me a coffee](https://buymeacoffee.com/kanavtwt)!
